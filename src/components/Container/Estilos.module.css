@@ -1,0 +1,15 @@
+.container-fluid {
+  max-width: auto;
+}
+
+.container {
+  max-width: 98rem;
+  /* border: 2px solid blue; */
+  margin: 0 auto;
+}
+
+.contennt {
+  /* border: 2px solid yellow; */
+  margin: 3.2rem;
+  text-align: center;
+}

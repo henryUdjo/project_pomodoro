@@ -1,0 +1,1 @@
+export { MeuInput } from './MeuInput';
